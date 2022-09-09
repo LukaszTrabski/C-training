@@ -1,5 +1,3 @@
-/* Are you of legal age */
-
 #include <stdio.h>
 
 int main(void) 
