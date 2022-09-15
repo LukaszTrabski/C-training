@@ -22,7 +22,7 @@ switch(character)
   case '/': result = var1 / var2; break;
 }
 
-printf("Result: %lf", result);
+printf("Result: %.2lf", result);
 
 return 0;
 }
